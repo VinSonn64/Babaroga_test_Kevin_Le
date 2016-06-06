@@ -1,0 +1,12 @@
+D:\The_Workshop\Code_Bench\WoodChucks\WoodChucks\bin\Debug\WoodChucks.exe.config
+D:\The_Workshop\Code_Bench\WoodChucks\WoodChucks\bin\Debug\WoodChucks.exe
+D:\The_Workshop\Code_Bench\WoodChucks\WoodChucks\bin\Debug\WoodChucks.pdb
+D:\The_Workshop\Code_Bench\WoodChucks\WoodChucks\obj\Debug\WoodChucks.csprojResolveAssemblyReference.cache
+D:\The_Workshop\Code_Bench\WoodChucks\WoodChucks\obj\Debug\WoodChucks.exe
+D:\The_Workshop\Code_Bench\WoodChucks\WoodChucks\obj\Debug\WoodChucks.pdb
+D:\The_Workshop\Code_Bench\Babaroga_test\WoodChucks\WoodChucks\bin\Debug\WoodChucks.exe.config
+D:\The_Workshop\Code_Bench\Babaroga_test\WoodChucks\WoodChucks\obj\Debug\WoodChucks.exe
+D:\The_Workshop\Code_Bench\Babaroga_test\WoodChucks\WoodChucks\obj\Debug\WoodChucks.pdb
+D:\The_Workshop\Code_Bench\Babaroga_test\WoodChucks\WoodChucks\bin\Debug\WoodChucks.exe
+D:\The_Workshop\Code_Bench\Babaroga_test\WoodChucks\WoodChucks\bin\Debug\WoodChucks.pdb
+D:\The_Workshop\Code_Bench\Babaroga_test\WoodChucks\WoodChucks\obj\Debug\WoodChucks.csprojResolveAssemblyReference.cache

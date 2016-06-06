@@ -1,0 +1,6 @@
+D:\The_Workshop\Code_Bench\Babaroga_test\2D_Math_test\2D_Math_test\bin\Debug\2D_Math_test.exe.config
+D:\The_Workshop\Code_Bench\Babaroga_test\2D_Math_test\2D_Math_test\bin\Debug\2D_Math_test.exe
+D:\The_Workshop\Code_Bench\Babaroga_test\2D_Math_test\2D_Math_test\bin\Debug\2D_Math_test.pdb
+D:\The_Workshop\Code_Bench\Babaroga_test\2D_Math_test\2D_Math_test\obj\Debug\2D_Math_test.csprojResolveAssemblyReference.cache
+D:\The_Workshop\Code_Bench\Babaroga_test\2D_Math_test\2D_Math_test\obj\Debug\2D_Math_test.exe
+D:\The_Workshop\Code_Bench\Babaroga_test\2D_Math_test\2D_Math_test\obj\Debug\2D_Math_test.pdb

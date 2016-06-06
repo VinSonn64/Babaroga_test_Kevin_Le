@@ -1,0 +1,6 @@
+D:\The_Workshop\Code_Bench\Babaroga_test\Farm\Farm\bin\Debug\Farm.exe.config
+D:\The_Workshop\Code_Bench\Babaroga_test\Farm\Farm\bin\Debug\Farm.exe
+D:\The_Workshop\Code_Bench\Babaroga_test\Farm\Farm\bin\Debug\Farm.pdb
+D:\The_Workshop\Code_Bench\Babaroga_test\Farm\Farm\obj\Debug\Farm.csprojResolveAssemblyReference.cache
+D:\The_Workshop\Code_Bench\Babaroga_test\Farm\Farm\obj\Debug\Farm.exe
+D:\The_Workshop\Code_Bench\Babaroga_test\Farm\Farm\obj\Debug\Farm.pdb
